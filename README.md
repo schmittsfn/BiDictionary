@@ -1,6 +1,6 @@
 # BiDictionary
 
-A bi-directional dictionary for the Swift programming language.
+A bi-directional dictionary/map for the Swift programming language.
 
 
 Usage:
