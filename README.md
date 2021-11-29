@@ -12,5 +12,3 @@ let value = biDict[key: "foo"]
 let key = biDict[value: "bar"]
 ```
 
-
-Still needs lots of work.
